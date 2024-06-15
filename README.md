@@ -1,3 +1,4 @@
+<!---
 - 👋 Hi, I’m @noeliarozado
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,6 +6,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--->
 
 <!---
 noeliarozado/noeliarozado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,24 +14,25 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+## Greetings! &#x1F44B;
+
+I'm Noelia Rozado, a Junior Developer with a strong passion for learning and growth in software development. 
 
 
-
-
-<h2>About Me</h2>
-
-<div>
-<pre>
-<code>
-public class AboutMe {
-  public static void main(String[] args) {
-    final String ME = " 🙋‍♂️";
-    final String[] LANGUAGES = {"Java", "Python", "PHP", "SQL", "HTML", "CSS"};
-    final String[] FRAMEWORKS = {"Angular"};
-    final String[] INTERESTS = {"Coding 💻", "Vegetarian food 🥑"};
-
-  }
+## About me &#x1F469;&#x200D;&#x1F4BB;
+  
+public class AboutMe { <br>
+  &nbsp; public static void main(String[] args) { <br>
+    &nbsp; &nbsp; final String *ME* = "**Noelia Rozado**"; <br>
+    &nbsp; &nbsp; String[] *PROGRAMMING LANGUAGES* = {"**Java**", "**C#**", "**Python**"}; <br>
+    &nbsp; &nbsp; String[] FRAMEWORKS = {"**.NET**", "**Hibernate**"}; <br>
+    &nbsp; &nbsp; String[] *WEB DEVELOPMENT* = {"**HTML**", "**CSS**"}; <br>
+    &nbsp; &nbsp; String[] *DATABASES* = {"**MySQL**", "**PostgreSQL**", "**SQLite**"}; <br>
+    &nbsp; &nbsp; String[] FRAMEWORKS = {"**.NET**", "**Hibernate**"}; <br>
+    &nbsp; &nbsp; String[] *LANGUAGES* = {"**Spanish**", "**English**", "**French**"}; <br>
+    &nbsp; &nbsp; String[] *INTERESTS* = {"**Coding**", "**Gaming**", "**Hiking**", "**Reading**", "**Cooking**", "**Psychology**"}; <br>
+&nbsp; } <br>
 }
-</code>
-</pre>
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noeliarozado&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
