@@ -34,5 +34,8 @@ public class AboutMe { <br>
 &nbsp; } <br>
 }
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noeliarozado&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+### Languages Used Across My Repositories
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noeliarozado&layout=compact)
+
 
