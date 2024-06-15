@@ -34,8 +34,9 @@ public class AboutMe { <br>
 &nbsp; } <br>
 }
 
-### Languages Used Across My Repositories
+## Languages used across my repositories &#x1F4C8;
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noeliarozado&layout=compact)
+
 
 
