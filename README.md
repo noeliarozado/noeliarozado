@@ -25,7 +25,7 @@ public class AboutMe { <br>
   &nbsp; public static void main(String[] args) { <br>
     &nbsp; &nbsp; final String *ME* = "**Noelia Rozado**"; <br>
     &nbsp; &nbsp; String[] *PROGRAMMING LANGUAGES* = {"**Java**", "**C#**", "**Python**"}; <br>
-    &nbsp; &nbsp; String[] FRAMEWORKS = {"**.NET**", "**Hibernate**"}; <br>
+    &nbsp; &nbsp; String[] *FRAMEWORKS* = {"**.NET**", "**Hibernate**"}; <br>
     &nbsp; &nbsp; String[] *WEB DEVELOPMENT* = {"**HTML**", "**CSS**"}; <br>
     &nbsp; &nbsp; String[] *DATABASES* = {"**MySQL**", "**PostgreSQL**", "**SQLite**"}; <br>
     &nbsp; &nbsp; String[] *LANGUAGES* = {"**Spanish**", "**English**", "**French**"}; <br>
