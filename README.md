@@ -40,7 +40,6 @@ public class AboutMe { <br>
     &nbsp; &nbsp; String[] *PROGRAMMING LANGUAGES* = {"**Java**", "**C#**"}; <br>
     &nbsp; &nbsp; String[] *FRAMEWORKS* = {"**.NET**"}; <br>
     &nbsp; &nbsp; String[] *WEB DEVELOPMENT* = {"**HTML**", "**CSS**"}; <br>
-    &nbsp; &nbsp; String[] *DATABASES* = {"**SQLite**"}; <br>
     &nbsp; &nbsp; String[] *LANGUAGES* = {"**Spanish**", "**English**", "**French**"}; <br>
     &nbsp; &nbsp; String[] *INTERESTS* = {"**Coding**", "**Gaming**", "**Hiking**", "**Reading**", "**Cooking**", "**Psychology**"}; <br>
 &nbsp; } <br>
