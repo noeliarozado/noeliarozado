@@ -18,28 +18,17 @@ You can click the Preview link to take a look at your changes.
 
 I'm Noelia Rozado, a Junior Developer with a strong passion for learning and growing in the field of software development.
 
-<!---
 ## About me &#x1F469;&#x200D;&#x1F4BB;
   
 public class AboutMe { <br>
   &nbsp; public static void main(String[] args) { <br>
     &nbsp; &nbsp; final String *ME* = "**Noelia Rozado**"; <br>
-    &nbsp; &nbsp; String[] *PROGRAMMING LANGUAGES* = {"**Java**", "**C#**", "**Python**"}; <br>
-    &nbsp; &nbsp; String[] *FRAMEWORKS* = {"**.NET**", "**Hibernate**"}; <br>
-    &nbsp; &nbsp; String[] *WEB DEVELOPMENT* = {"**HTML**", "**CSS**"}; <br>
+    &nbsp; &nbsp; String[] *PROGRAMMING LANGUAGES* = {"**Java**", "**C#**", "**Python**", "**TypeScript**"}; <br>
+    &nbsp; &nbsp; String[] *FRAMEWORKS* = {"**.NET**", "**Hibernate**", "**Angular**", "**Ionic**"}; <br>
+    &nbsp; &nbsp; String[] *WEB DEVELOPMENT* = {"**HTML**", "**CSS**"", **TypeScript**", "**Angular**", "**Ionic**"}; <br>
+    &nbsp; &nbsp; String[] *MOBILE DEVELOPMENT* = {"**Android Studio**", "**Ionic**"}; <br>
+    &nbsp; &nbsp; String[] *GAME DEVELOPMENT* = {"**Unity**", "**Godot**"}; <br>
     &nbsp; &nbsp; String[] *DATABASES* = {"**MySQL**", "**PostgreSQL**", "**SQLite**"}; <br>
-    &nbsp; &nbsp; String[] *LANGUAGES* = {"**Spanish**", "**English**", "**French**"}; <br>
-    &nbsp; &nbsp; String[] *INTERESTS* = {"**Coding**", "**Gaming**", "**Hiking**", "**Reading**", "**Cooking**", "**Psychology**"}; <br>
-&nbsp; } <br>
-}
---->
-
-public class AboutMe { <br>
-  &nbsp; public static void main(String[] args) { <br>
-    &nbsp; &nbsp; final String *ME* = "**Noelia Rozado**"; <br>
-    &nbsp; &nbsp; String[] *PROGRAMMING LANGUAGES* = {"**Java**", "**C#**"}; <br>
-    &nbsp; &nbsp; String[] *FRAMEWORKS* = {"**.NET**"}; <br>
-    &nbsp; &nbsp; String[] *WEB DEVELOPMENT* = {"**HTML**", "**CSS**"}; <br>
     &nbsp; &nbsp; String[] *LANGUAGES* = {"**Spanish**", "**English**", "**French**"}; <br>
     &nbsp; &nbsp; String[] *INTERESTS* = {"**Coding**", "**Gaming**", "**Hiking**", "**Reading**", "**Cooking**", "**Psychology**"}; <br>
 &nbsp; } <br>
