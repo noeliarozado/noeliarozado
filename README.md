@@ -24,7 +24,7 @@ I'm Noelia Rozado, a Junior Developer with a strong passion for learning and gro
 public class AboutMe { <br>
   &nbsp; public static void main(String[] args) { <br>
     &nbsp; &nbsp; final String *ME* = "**Noelia Rozado**"; <br>
-    &nbsp; &nbsp; String[] *PROGRAMMING LANGUAGES* = {"**Java**", "**C#**", "**Python**", "**TypeScript**"}; <br>
+    &nbsp; &nbsp; String[] *PROGRAMMING LANGUAGES* = {"**Java**", "**C#**", "**Python**", "**Kotlin**", "**TypeScript**"}; <br>
     &nbsp; &nbsp; String[] *FRAMEWORKS* = {"**.NET**", "**Hibernate**", "**Angular**", "**Ionic**"}; <br>
     &nbsp; &nbsp; String[] *WEB DEVELOPMENT* = {"**HTML**", "**CSS**"", **TypeScript**", "**Angular**", "**Ionic**"}; <br>
     &nbsp; &nbsp; String[] *MOBILE DEVELOPMENT* = {"**Android Studio**", "**Ionic**"}; <br>
